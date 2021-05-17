@@ -1,0 +1,6 @@
+pkg/
+target/
+*.lock
+LICENSE_*
+www/*
+!www/index.*
